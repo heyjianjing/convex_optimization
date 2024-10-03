@@ -6,7 +6,7 @@ Main reference
 `cvx_01`
 * Convex set definition
 * Examples
-* Operations preserving convexity
+* Operations that preserve convexity
 * Generalized inequalities
 * Minimum element
 * Minimal element
