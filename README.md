@@ -24,3 +24,14 @@ Main reference
 * Operations that preserve convexity
 * Quasiconvexity
 * Log-convexity
+
+`cvx_03`
+* Optimization in standard form
+* Convex optimization in standard form
+* Any local optimal is global optimal for convex problem
+* Optimality criterion for differentiable objective function
+* Common equivalent convex formulations
+* Linear program (LP)
+* Quadratic program (QP)
+* Second-order cone program (SOCP)
+* Semidefinite program (SDP)
