@@ -11,7 +11,10 @@ Main reference
 * Minimum element
 * Minimal element
 * Inner products for matrices
+* Dual norm
+* Hölder's inequality as generalization of Cauchy-Schwarz
 * Dual cone
+* Examples of dual cone
 * Separating hyperplane theorem
 
 `cvx_02`
