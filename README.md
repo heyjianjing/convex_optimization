@@ -30,6 +30,7 @@ Main reference
 * Operations that preserve convexity
 * Quasiconvexity
 * Log-convexity
+* Conjugate function
 
 `cvx_03`
 * Optimization in standard form
