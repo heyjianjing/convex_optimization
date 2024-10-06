@@ -1,7 +1,7 @@
 # Convex optimization
 
 Main reference
-* Lectures from Prof. Stephen Boyd (Stanford), Prof. Lieven Vandenberghe (UCLA) and Prof. Constantine Caramanis (UT-Austin)
+* Lectures from Prof. Stephen Boyd (Stanford), Prof. Lieven Vandenberghe (UCLA), and Prof. Constantine Caramanis (UT-Austin)
 
 `cvx_01`
 * Convex set definition
