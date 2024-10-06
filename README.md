@@ -11,7 +11,7 @@ Main reference
 * Generalized inequalities
 * Minimum element
 * Minimal element
-* Inner products for matrices
+* Inner product for matrices
 * Dual norm
 * Hölder's inequality as generalization of Cauchy-Schwarz
 * Dual cone
