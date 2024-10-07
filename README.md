@@ -13,6 +13,7 @@ Main reference
 * Minimal element
 * Inner product for matrices
 * Dual norm
+* Dual norm of some p-norm
 * Hölder's inequality as generalization of Cauchy-Schwarz
 * Dual cone
 * Examples of dual cone
