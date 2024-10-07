@@ -8,7 +8,7 @@ Main reference
 * Convex set definition
 * Common convex sets
 * Operations that preserve convexity
-* Generalized inequalities
+* Proper cone and generalized inequalities
 * Minimum element
 * Minimal element
 * Inner product for matrices
