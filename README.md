@@ -33,7 +33,9 @@ Main reference
 * Conjugate function
 
 `cvx_03`
-* Optimization in standard form
+* Optimization in standard form and explicit constraints
+* Locally optimal points
+* Domain of optimization problem and implicit constraints
 * Convex optimization in standard form
 * Any local optimal is global optimal for convex problem
 * Optimality criterion for differentiable objective function
