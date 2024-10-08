@@ -35,6 +35,8 @@ Main reference
 
 `cvx_03`
 * Optimization in standard form and explicit constraints
+* Feasibility of variable
+* Feasibility of optimization problem
 * Locally optimal points
 * Domain of optimization problem and implicit constraints
 * Convex optimization in standard form
