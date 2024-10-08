@@ -56,7 +56,7 @@ Main reference
 * Lagrange dual function and conjugate function
 * Lagrange dual problem
 * Dual feasibility
-* Implicity and explicit constraints in dual
+* Implicit and explicit constraints in dual
 * Weak and strong duality
 * Slater's constraint qualification
 * Inequality form of LP/QP and its dual
