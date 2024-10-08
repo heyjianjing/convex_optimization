@@ -47,3 +47,22 @@ Main reference
 * Quadratic program (QP)
 * Second-order cone program (SOCP)
 * Semidefinite program (SDP)
+
+`cvx_04`
+* Lagrangian
+* Lagrange dual function
+* Domain of dual function
+* Lower bound property
+* Lagrange dual function and conjugate function
+* Lagrange dual problem
+* Dual feasibility
+* Implicity and explicit constraints in dual
+* Weak and strong duality
+* Slater's constraint qualification
+* Inequality form of LP/QP and its dual
+* Complementary slackness
+* Karush-Kuhn-Tucker (KKT) conditions
+* KKT as sufficient conditions for convex problem
+* Perturbed primal and dual
+* Global sensitivity
+* Local sensitivity and interpretation of Lagrange multipliers
