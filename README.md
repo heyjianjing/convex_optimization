@@ -76,8 +76,8 @@ Main reference
 `cvx_06`
 * Recap smooth function
 * Improvement guarantee with gradient descent
-* A bound on suboptimality of any point for smooth function
-* Stronger bound on gradient with co-coercivity
+* A bound on suboptimality for smooth function
+* Stronger monotone condition with co-coercivity
 * Recap strong convexity
-* A bound on suboptimality of any point for strongly convex function
-* Stronger bound on gradient with coercivity
+* A bound on suboptimality for strongly convex function
+* Stronger monotone condition with coercivity
