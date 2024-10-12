@@ -72,3 +72,12 @@ Main reference
 * Quadratic upper bound for smooth function
 * Strongly convex function and quadratic lower bound
 * Illustration of quadratic upper bound, quadratic lower bound, and linear lower bound
+
+`cvx_06`
+* Recap smooth function
+* Improvement guarantee with gradient descent
+* A bound on suboptimality of any point for smooth function
+* Stronger bound on gradient with co-coercivity
+* Recap strong convexity
+* A bound on suboptimality of any point for strongly convex function
+* Stronger bound on gradient with coercivity
