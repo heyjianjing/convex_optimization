@@ -1,7 +1,7 @@
 # Convex optimization
 
 Main reference
-* Lectures from Prof. Stephen Boyd (Stanford)
+* Lectures from Prof. Stephen Boyd (Stanford), Prof. Constantine Caramanis (UT-Austin)
 
 `cvx_01`
 * A note on notation
@@ -66,3 +66,9 @@ Main reference
 * Perturbed primal and dual
 * Global sensitivity
 * Local sensitivity and interpretation of Lagrange multipliers
+
+`cvx_05`
+* Smooth function and bounded gradient
+* Quadratic upper bound for smooth function
+* Strongly convex function and quadratic lower bound
+* Illustration of quadratic upper bound, quadratic lower bound, and linear lower bound
