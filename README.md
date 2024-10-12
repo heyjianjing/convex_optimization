@@ -71,7 +71,7 @@ Main reference
 * Smooth function and bounded gradient
 * Quadratic upper bound for smooth function
 * Strongly convex function and quadratic lower bound
-* Illustration of quadratic upper bound, quadratic lower bound, and linear lower bound
+* Illustration of quadratic upper bound (smooth), quadratic lower bound (strongly convex), and linear lower bound (convex)
 
 `cvx_06`
 * Recap smooth function
