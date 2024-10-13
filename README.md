@@ -74,10 +74,7 @@ Main reference
 * Illustration of quadratic upper bound (smooth), quadratic lower bound (strongly convex), and linear lower bound (convex)
 
 `cvx_06`
-* Recap smooth function
-* Improvement guarantee with gradient descent
 * A bound on suboptimality for smooth function
 * Stronger monotone condition with co-coercivity
-* Recap strong convexity
 * A bound on suboptimality for strongly convex function
 * Stronger monotone condition with coercivity
