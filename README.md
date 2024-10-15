@@ -78,3 +78,16 @@ Main reference
 * Stronger monotone condition with co-coercivity
 * A bound on suboptimality for strongly convex function
 * Stronger monotone condition with coercivity
+
+`cvx_07`
+* Unconstrained optimization for differentiable convex function
+* General descent method
+* Requirement for search direction
+* Line search for step size
+* Gradient descent and 1st order approximation
+* Gradient descent with ill-conditioned problem
+* Convergence analysis of gradient descent for smooth and strongly convex functions
+* Steepest descent method
+* Search direction under arbitrary norm
+* Quadratic norm search direction
+* Geometric interpretation of quadratic norm search direction
