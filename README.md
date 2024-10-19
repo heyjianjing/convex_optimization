@@ -93,6 +93,6 @@ Main reference
 * Geometric interpretation of quadratic norm search direction
 * Newton step from 2nd order approximation
 * Newton step as steepest descent direction under quadratic norm induced by local Hessian
-* Gradient descent is not affine invariant
+* Gradient descent is not affine invariant and is sensitive to condition number
 * Newton step is affine invariant
 * Optimal affine transformation makes gradient descent as efficient as Newton step
