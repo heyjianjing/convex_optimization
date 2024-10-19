@@ -91,5 +91,5 @@ Main reference
 * Search direction under arbitrary norm
 * Quadratic norm search direction
 * Geometric interpretation of quadratic norm search direction
-* Newton's step from 2nd order approximation
-* Newton's step as steepest descent direction under quadratic norm induced by local Hessian
+* Newton step from 2nd order approximation
+* Newton step as steepest descent direction under quadratic norm induced by local Hessian
