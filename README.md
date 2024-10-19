@@ -94,3 +94,4 @@ Main reference
 * Newton step from 2nd order approximation
 * Newton step as steepest descent direction under quadratic norm induced by local Hessian
 * Gradient descent is not affine invariant, with changing convergence behavior under affine transformation
+* Newton step is affine invariant
