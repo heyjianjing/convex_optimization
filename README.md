@@ -96,3 +96,5 @@ Main reference
 * Gradient descent is not affine invariant and is sensitive to condition number
 * Newton step is affine invariant
 * Optimal affine transformation makes gradient descent as efficient as Newton step
+* Newton decrement as a measure of proximity of function to optimal value based on 2nd order approximation
+* Newton's method
