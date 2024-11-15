@@ -98,4 +98,7 @@ Main reference
 * Optimal affine transformation makes gradient descent as efficient as Newton step
 * Newton decrement as a measure of proximity of function to optimal value based on 2nd order approximation
 * Newton decrement is affine invariant
-* Newton's method and two-phase convergence properties
+* Newton's method and two-phase convergence theorem
+* Problem with Lipschitzness of Hessian at boundary in convergence analysis
+* Some problematic functions from the persepective self-confordant functions
+* Properties and convergence analysis for self-concordant functions
