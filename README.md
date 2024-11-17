@@ -102,3 +102,4 @@ Main reference
 * Problem with Lipschitzness of Hessian at boundary in convergence analysis
 * Some problematic functions from the persepective self-confordant functions
 * Properties and convergence analysis for self-concordant functions
+* Unconstrained optimization example with gradient descent
