@@ -103,3 +103,8 @@ Main reference
 * Some problematic functions from the persepective self-confordant functions
 * Properties and convergence analysis for self-concordant functions
 * Log-barrier example with gradient descent and Newton's method
+
+`cvx_08`
+* Equality constrained optimization and optimality condition
+* Quadratic example and KKT matrix
+* Equivalent conditions for nonsingularity of KKT matrix
