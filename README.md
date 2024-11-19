@@ -108,3 +108,5 @@ Main reference
 * Equality constrained optimization and optimality condition
 * Quadratic example and KKT matrix
 * Equivalent conditions for nonsingularity of KKT matrix
+* Newton step and Newton decrement with equality constraints
+* Newton's method with equality constraints
