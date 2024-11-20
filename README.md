@@ -109,6 +109,7 @@ Main reference
 * Quadratic example and KKT matrix
 * Equivalent conditions for nonsingularity of KKT matrix
 * Newton step and Newton decrement with equality constraints
+* Feasible points with Newton step remain feasible
 * Newton's method with equality constraints
 * Newton step at infeasible points
 * Primal-dual interpretation
