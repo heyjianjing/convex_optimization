@@ -114,3 +114,4 @@ Main reference
 * Newton step at infeasible points
 * Primal-dual interpretation
 * Infeasible start with Newton's method and use of residual for line search
+* Use LDLT factorization to solve KKT system of equations
