@@ -110,3 +110,6 @@ Main reference
 * Equivalent conditions for nonsingularity of KKT matrix
 * Newton step and Newton decrement with equality constraints
 * Newton's method with equality constraints
+* Newton step at infeasible points
+* Primal-dual interpretation
+* Infeasible start with Newton's method and use of residual for line search
