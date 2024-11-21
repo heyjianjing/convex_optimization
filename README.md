@@ -115,3 +115,7 @@ Main reference
 * Primal-dual interpretation
 * Infeasible start with Newton's method and use of residual for line search
 * Use LDLT factorization to solve KKT system of equations
+
+`cvx_09`
+* Interior point methods convert inequality constrained problem into a sequence of small number of unconstrained or equality constrained problems
+* Log-barrier function to approximate inequality constraints
