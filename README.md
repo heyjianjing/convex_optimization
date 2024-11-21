@@ -54,8 +54,8 @@ Main reference
 * Domain of dual function
 * Lower bound property
 * Lagrange dual function and conjugate function
-* Lagrange dual problem
-* Dual feasibility
+* Dual feasibility indicates a lower bound for original problem
+* Lagrange dual problem to find best lower bound
 * Implicit and explicit constraints in dual
 * Weak and strong duality
 * Slater's constraint qualification
