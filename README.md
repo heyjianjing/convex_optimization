@@ -13,7 +13,6 @@ Main reference
 * Minimal element
 * Inner product for matrices
 * Dual norm
-* Dual norm of some p-norm
 * Hölder's inequality as generalization of Cauchy-Schwarz
 * Dual cone
 * Examples of dual cone
@@ -118,8 +117,8 @@ Main reference
 
 `cvx_09`
 * Interior point methods convert inequality constrained problem into a sequence of unconstrained or equality constrained problems
-* Log barrier function to approximate inequality constraints
-* Centering problem with log barrier function
+* Log-barrier function to approximate inequality constraints
+* Centering problem with log-barrier function
 * Central path and analytic center of polyhedron
 * Equivalence between optimality condition for centering problem and minimizing Lagrangian of original problem
 * Solving centering problem provides dual feasible point and lower bound of solution of original problem
