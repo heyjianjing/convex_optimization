@@ -117,9 +117,9 @@ Main reference
 * Use LDLT factorization to solve KKT system of equations
 
 `cvx_09`
-* Interior point methods convert inequality constrained problem into a sequence of small number of unconstrained or equality constrained problems
-* Log-barrier function to approximate inequality constraints
-* Centering problem with log-barrier function
+* Interior point methods convert inequality constrained problem into a sequence of unconstrained or equality constrained problems
+* Log barrier function to approximate inequality constraints
+* Centering problem with log barrier function
 * Central path and analytic center
 * Equivalence between optimality condition for centering problem and minimizing Lagrangian of original problem
 * Solving centering problem provides dual feasible point and lower bound of solution of original problem
