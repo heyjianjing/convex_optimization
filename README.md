@@ -43,6 +43,7 @@ Main reference
 * Optimality criterion for differentiable objective function
 * Common equivalent convex formulations
 * Linear program (LP)
+* Solutions of simple LPs
 * Quadratic program (QP)
 * Second-order cone program (SOCP)
 * Semidefinite program (SDP)
