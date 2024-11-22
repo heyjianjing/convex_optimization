@@ -124,3 +124,5 @@ Main reference
 * Solving centering problem provides dual feasible point and lower bound of solution of original problem
 * Duality gap on central path
 * Solution on central path satisfies all KKT conditions except complementary slackness
+* Barrier method
+* Feasibility problem and finding strictly feasible starting point for barrier method
