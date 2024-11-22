@@ -70,7 +70,6 @@ Main reference
 * Smooth function and bounded gradient
 * Quadratic upper bound for smooth function
 * Strongly convex function and quadratic lower bound
-* Illustration of quadratic upper bound (smooth), quadratic lower bound (strongly convex), and linear lower bound (convex)
 
 `cvx_06`
 * A bound on suboptimality for smooth function
