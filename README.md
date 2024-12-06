@@ -106,7 +106,7 @@ Main reference
 `cvx_08`
 * Equality constrained optimization and optimality condition
 * Quadratic example and KKT matrix
-* Equivalent conditions for nonsingularity of KKT matrix
+* Condition for nonsingularity of KKT matrix
 * Newton step and Newton decrement with equality constraints
 * Feasible points with Newton step remain feasible
 * Newton's method with equality constraints
