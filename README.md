@@ -105,6 +105,7 @@ Main reference
 * Newton step at infeasible points
 * Primal-dual interpretation
 * Newton's method with infeasible start
+* Solving KKT equations using block elimination
 * Analytical centering example
 
 `cvx_09`
