@@ -1,7 +1,7 @@
 # Convex optimization
 
 Main reference
-* Lectures from Prof. Stephen Boyd (Stanford), Prof. Constantine Caramanis (UT-Austin)
+* Lectures from Prof. Stephen Boyd (Stanford)
 
 `cvx_01`
 * A note on notation
