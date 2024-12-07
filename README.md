@@ -6,21 +6,20 @@ Main reference
 `cvx_01`
 * A note on notation
 * Convex set definition
-* Common convex sets
+* Examples of convex set
 * Operations that preserve convexity
 * Proper cone and generalized inequalities
-* Minimum element
-* Minimal element
+* Minimum and minimal element
 * Inner product for matrices
 * Dual norm
-* Hölder's inequality as generalization of Cauchy-Schwarz
+* Hölder's inequality
 * Dual cone
 * Examples of dual cone
 * Separating hyperplane theorem
 
 `cvx_02`
 * Convex function definition
-* Common convex functions
+* Examples of convex function
 * Convexity by restricting function to a line
 * 1st and 2nd order condition for differentiable functions
 * Conditions for nondifferentiable functions
@@ -39,9 +38,9 @@ Main reference
 * Locally optimal points
 * Domain of optimization problem and implicit constraints
 * Convex optimization in standard form
-* Any local optimal is global optimal for convex problem
+* Local optimal is global optimal for convex problem
 * Optimality criterion for differentiable objective function
-* Common equivalent convex formulations
+* Equivalent convex formulations
 * Linear program (LP)
 * Solutions of simple LPs
 * Quadratic program (QP)
@@ -55,7 +54,7 @@ Main reference
 * Lower bound property
 * Lagrange dual function and conjugate function
 * Dual feasibility indicates a lower bound for original problem
-* Lagrange dual problem to find best lower bound
+* Lagrange dual problem
 * Implicit and explicit constraints in dual
 * Weak and strong duality
 * Slater's constraint qualification
@@ -88,32 +87,23 @@ Main reference
 * Convergence analysis of gradient descent for smooth and strongly convex functions
 * Steepest descent method
 * Search direction under arbitrary norm
-* Quadratic norm search direction
-* Geometric interpretation of quadratic norm search direction
+* Quadratic norm search direction and geometric interpretation
 * Newton step from 2nd order approximation
-* Newton step as steepest descent direction under quadratic norm induced by local Hessian
-* Gradient descent is not affine invariant and is sensitive to condition number
-* Newton step is affine invariant
-* Optimal affine transformation makes gradient descent as efficient as Newton step
-* Newton decrement as a measure of proximity of function to optimal value based on 2nd order approximation
-* Newton decrement is affine invariant
+* Affine invariance
+* Newton decrement
 * Newton's method and two-phase convergence theorem
-* Problem with Lipschitzness of Hessian at boundary in convergence analysis
-* Some problematic functions from the persepective self-confordant functions
+* Self-confordant functions
 * Properties and convergence analysis for self-concordant functions
-* Log-barrier example with gradient descent and Newton's method
 
 `cvx_08`
 * Equality constrained optimization and optimality condition
-* Quadratic example and KKT matrix
+* KKT equations
 * Condition for nonsingularity of KKT matrix
 * Newton step and Newton decrement with equality constraints
-* Feasible points with Newton step remain feasible
 * Newton's method with equality constraints
 * Newton step at infeasible points
 * Primal-dual interpretation
-* Infeasible start with Newton's method and use of residual for line search
-* Use LDLT factorization to solve KKT system of equations
+* Newton's method with infeasible start
 
 `cvx_09`
 * Interior point methods convert inequality constrained problem into a sequence of unconstrained or equality constrained problems
