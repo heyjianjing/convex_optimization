@@ -110,13 +110,10 @@ Main reference
 * Analytical centering example
 
 `cvx_09`
-* Interior point methods convert inequality constrained problem into a sequence of unconstrained or equality constrained problems
 * Log-barrier function to approximate inequality constraints
 * Centering problem with log-barrier function
-* Central path and analytic center of polyhedron
-* Equivalence between optimality condition for centering problem and minimizing Lagrangian of original problem
-* Solving centering problem provides dual feasible point and lower bound of solution of original problem
+* Central path
+* Optimality for centering problem and dual feasible point for original problem
 * Duality gap on central path
-* Solution on central path satisfies all KKT conditions except complementary slackness
+* Interpretation using KKT conditions
 * Barrier method
-* Feasibility problem and finding strictly feasible starting point for barrier method
