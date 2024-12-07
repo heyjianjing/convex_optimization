@@ -61,6 +61,7 @@ Main reference
 * Inequality form of LP/QP and its dual
 * Complementary slackness
 * Karush-Kuhn-Tucker (KKT) conditions
+* Dual residual
 * KKT as sufficient conditions for convex problem
 * Perturbed primal and dual
 * Global sensitivity
