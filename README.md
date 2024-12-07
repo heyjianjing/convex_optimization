@@ -94,6 +94,7 @@ Main reference
 * Newton's method and two-phase convergence theorem
 * Self-confordant functions
 * Properties and convergence analysis for self-concordant functions
+* Quadratic, exponential, and log-barrier example
 
 `cvx_08`
 * Equality constrained optimization and optimality condition
@@ -104,6 +105,7 @@ Main reference
 * Newton step at infeasible points
 * Primal-dual interpretation
 * Newton's method with infeasible start
+* Analytical centering example
 
 `cvx_09`
 * Interior point methods convert inequality constrained problem into a sequence of unconstrained or equality constrained problems
