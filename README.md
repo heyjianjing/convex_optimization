@@ -117,3 +117,4 @@ Main reference
 * Duality gap on central path
 * Interpretation using KKT conditions
 * Barrier method
+* Inequality-constrained LP example
