@@ -107,7 +107,7 @@ Main reference
 * Primal-dual interpretation
 * Newton's method with infeasible start
 * Solving KKT equations using block elimination
-* Analytic centering example
+* Equality-constrained Analytic centering example (infeasible/feasible start Newton's method)
 
 `cvx_09`
 * Log-barrier function to approximate inequality constraints
@@ -119,5 +119,5 @@ Main reference
 * Barrier method
 * Dual feasible points near central path
 * Surrogate duality gap
-* Inequality-constrained LP example
-* Inequality- and equality-constrained LP example
+* Inequality-constrained LP example (feasible start Newton's method)
+* Inequality- and equality-constrained LP example (feasible start Newton's method)
