@@ -120,3 +120,4 @@ Main reference
 * Dual feasible points near central path
 * Surrogate duality gap
 * Inequality-constrained LP example
+* Inequality- and equality-constrained LP example
