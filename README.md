@@ -117,4 +117,6 @@ Main reference
 * Duality gap on central path
 * Interpretation using KKT conditions
 * Barrier method
+* Dual feasible points near central path
+* Surrogate duality gap
 * Inequality-constrained LP example
