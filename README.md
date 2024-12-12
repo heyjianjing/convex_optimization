@@ -121,5 +121,5 @@ Main reference
 * Surrogate duality gap
 * Inequality-constrained LP example (feasible start Newton's method)
 * Inequality- and equality-constrained LP example (feasible start Newton's method)
-* Find strictly feasible initial point (Phase I example with feasible start Newton's method)
-* Use strictly feasible initial point to solve LP (Phase II example with feasible start Newton's method)
+* Find strictly feasible initial point for LP (Phase I example with feasible start Newton's method)
+* Solve LP with this initial point (Phase II example with feasible start Newton's method)
