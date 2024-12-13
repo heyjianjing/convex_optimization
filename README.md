@@ -124,3 +124,4 @@ Main reference
 * **Example**: Find strictly feasible initial point for LP (Phase I with feasible start Newton's method)
 * **Example**: Solve LP with feasible point found in Phase I (Phase II with feasible start Newton's method)
 * **Example**: LP with infeasible start Newton's method
+* Standard form LP and equivalence to general form LP
