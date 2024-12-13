@@ -95,7 +95,7 @@ Main reference
 * Newton's method and two-phase convergence theorem
 * Self-confordant functions
 * Properties and convergence analysis for self-concordant functions
-* Quadratic, exponential, and log-barrier example
+* **Example**: Quadratic, exponential, and log-barrier objective
 
 `cvx_08`
 * Equality constrained optimization and optimality condition
@@ -107,7 +107,7 @@ Main reference
 * Primal-dual interpretation
 * Newton's method with infeasible start
 * Solving KKT equations using block elimination
-* Equality-constrained analytic centering example (infeasible/feasible start Newton's method)
+* **Example**: Equality-constrained analytic centering (infeasible/feasible start Newton's method)
 
 `cvx_09`
 * Log-barrier function to approximate inequality constraints
@@ -119,8 +119,8 @@ Main reference
 * Barrier method
 * Dual feasible points near central path
 * Surrogate duality gap
-* Inequality-constrained LP example (feasible start Newton's method)
-* Inequality- and equality-constrained LP example (feasible start Newton's method)
-* Find strictly feasible initial point for LP (Phase I example with feasible start Newton's method)
-* Solve LP with feasible point found in Phase I (Phase II example with feasible start Newton's method)
-* LP example with infeasible start Newton's method
+* **Example**: Inequality-constrained LP (feasible start Newton's method)
+* **Example**: Inequality- and equality-constrained LP (feasible start Newton's method)
+* **Example**: Find strictly feasible initial point for LP (Phase I with feasible start Newton's method)
+* **Example**: Solve LP with feasible point found in Phase I (Phase II with feasible start Newton's method)
+* **Example**: LP with infeasible start Newton's method
