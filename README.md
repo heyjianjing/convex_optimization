@@ -122,5 +122,5 @@ Main reference
 * Inequality-constrained LP example (feasible start Newton's method)
 * Inequality- and equality-constrained LP example (feasible start Newton's method)
 * Find strictly feasible initial point for LP (Phase I example with feasible start Newton's method)
-* Solve LP with initial point found in Phase I (Phase II example with feasible start Newton's method)
+* Solve LP with feasible point found in Phase I (Phase II example with feasible start Newton's method)
 * LP example with infeasible start Newton's method
