@@ -118,7 +118,6 @@ Main reference
 * Interpretation using KKT conditions
 * Barrier method
 * Dual feasible points near central path
-* Surrogate duality gap
 * **Example**: Inequality-constrained LP (feasible start Newton's method)
 * **Example**: Inequality- and equality-constrained LP (feasible start Newton's method)
 * **Example**: Find strictly feasible initial point for LP (Phase I with feasible start Newton's method)
