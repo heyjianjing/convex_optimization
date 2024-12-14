@@ -96,8 +96,7 @@ Main reference
 * Self-confordant functions
 * Properties and convergence analysis for self-concordant functions
 * **Example**: Quadratic, exponential, and log-barrier objective
-* Note on gradient descent for vector-valued functions
-* Levenberg–Marquardt algorithm and Gauss-Newton method
+* Gradient descent for vector-valued functions: Levenberg–Marquardt and Gauss-Newton method
 
 `cvx_08`
 * Equality constrained optimization and optimality condition
