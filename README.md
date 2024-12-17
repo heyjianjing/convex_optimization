@@ -125,3 +125,6 @@ Main reference
 * **Example**: Solve LP with feasible point found in Phase I (Phase II with feasible start Newton's method)
 * **Example**: LP with infeasible start Newton's method
 * Standard form LP and equivalence to general form LP
+
+`cvx_10`
+* Barrier method as minimizing residual from modified KKT conditions
