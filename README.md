@@ -128,3 +128,6 @@ Main reference
 
 `cvx_10`
 * Barrier method as minimizing residual from modified KKT conditions
+* Primal-dual method
+* Surrogate duality gap
+* Line search
