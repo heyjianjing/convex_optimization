@@ -128,7 +128,7 @@ Main reference
 
 `cvx_10`
 * Barrier method as minimizing residual from modified KKT conditions
-* Primal-dual method
+* Primal-dual method for both feasible and infeasible start
 * Surrogate duality gap
 * Line search
 * **Example**: Inequality form LP
