@@ -133,3 +133,4 @@ Main reference
 * Line search
 * **Example**: Inequality form LP
 * **Example**: Standard form LP
+* **Example**: Standard form QP
