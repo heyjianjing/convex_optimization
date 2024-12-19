@@ -131,3 +131,5 @@ Main reference
 * Primal-dual method
 * Surrogate duality gap
 * Line search
+* **Example**: Inequality form LP
+* **Example**: Standard form LP
