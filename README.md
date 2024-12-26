@@ -134,3 +134,10 @@ Main reference
 * **Example**: Inequality form LP
 * **Example**: Standard form LP
 * **Example**: Standard form QP (Phase I and Phase II)
+
+`cvx_11`
+* Extreme points in standard form LP
+* Move between adjacent extreme points
+* Reduced cost
+* Simplex method and tableau approach
+* **Example**: implementation based on conceptual steps
