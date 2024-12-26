@@ -140,4 +140,4 @@ Main reference
 * Move between adjacent extreme points
 * Reduced cost
 * Simplex method and tableau approach for LP
-* **Example**: implementation based on conceptual steps
+* **Example**: implementation of simplex method based on conceptual steps
