@@ -139,5 +139,5 @@ Main reference
 * Extreme points in standard form LP
 * Move between adjacent extreme points
 * Reduced cost
-* Simplex method and tableau approach
+* Simplex method and tableau approach for LP
 * **Example**: implementation based on conceptual steps
