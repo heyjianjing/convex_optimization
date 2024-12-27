@@ -141,3 +141,8 @@ Main reference
 * Reduced cost
 * Simplex method and tableau approach for LP
 * **Example**: simplex method for Phase I and Phase II
+
+`cvx_12`
+* Subgradient for nondifferentiable functions
+* Basic subgradient calculus rules
+* Examples of subgradient
