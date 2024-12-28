@@ -146,3 +146,5 @@ Main reference
 * Subgradient for nondifferentiable functions
 * Basic subgradient calculus rules
 * Examples of subgradient
+* Optimality conditions for subdifferentiable functions
+* Generalization of KKT conditions
