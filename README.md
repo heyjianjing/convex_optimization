@@ -148,3 +148,4 @@ Main reference
 * Examples of subgradient
 * Optimality conditions for subdifferentiable functions
 * Generalization of KKT conditions
+* Directional derivative and lower bound for convex functions
