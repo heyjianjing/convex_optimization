@@ -149,3 +149,5 @@ Main reference
 * Optimality conditions for subdifferentiable functions
 * Generalization of KKT conditions
 * Directional derivative and lower bound for convex functions
+* Directional derivative and subgradients
+* Descent directions and subgradients
