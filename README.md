@@ -150,4 +150,4 @@ Main reference
 * Generalization of KKT conditions
 * Directional derivative and lower bound for convex functions
 * Directional derivative and subgradients
-* Descent directions and subgradients
+* Negative subgradient direction need not be descent direction
