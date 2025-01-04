@@ -158,3 +158,5 @@ Main reference
 `cvx_13`
 * Subgradient method and choices of step size
 * Convergence analysis
+* A stopping criterion
+* **Example**: piecewise linear minimization
