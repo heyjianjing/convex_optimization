@@ -156,5 +156,5 @@ Main reference
 * Descent direction and optimality
 
 `cvx_13`
-* Subgradient method and step size
+* Subgradient method and choices of step size
 * Convergence analysis
