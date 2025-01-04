@@ -154,3 +154,7 @@ Main reference
 * Negative subgradient need not be descent direction
 * Negative subgradient reduce distance to minimizer
 * Descent direction and optimality
+
+`cvx_13`
+* Subgradient method and step size
+* Convergence analysis
