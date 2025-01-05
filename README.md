@@ -156,7 +156,9 @@ Main reference
 * Descent direction and optimality
 
 `cvx_13`
-* Subgradient method and choices of step size
+* Subgradient method
+* Choices of step size
 * Convergence analysis
 * A stopping criterion
 * **Example**: piecewise linear minimization
+* **Example**: simple 1-norm minimization
