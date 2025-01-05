@@ -162,3 +162,4 @@ Main reference
 * A stopping criterion
 * **Example**: piecewise linear minimization
 * **Example**: simple 1-norm minimization
+* **Example**: 1-norm regularized least squares
