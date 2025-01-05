@@ -163,3 +163,4 @@ Main reference
 * **Example**: piecewise linear minimization
 * **Example**: simple 1-norm minimization
 * **Example**: 1-norm regularized least squares
+* Optimal step with known optimal function value
