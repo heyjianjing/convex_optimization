@@ -164,4 +164,5 @@ Main reference
 * **Example**: simple 1-norm minimization
 * **Example**: 1-norm regularized least squares
 * Optimal step with known optimal function value
-* Point at intersection of convex sets
+* Point at intersection of convex sets and alternating projections
+* **Example**: PSD matrix completion
