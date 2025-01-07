@@ -171,4 +171,4 @@ Main reference
 * Projected subgradient method for constrained optimization
 * Convergence analysis
 * Simplification with linear equality constraints
-* **Example**: constrained 1-norm minimization
+* **Example**: linear equality constrained 1-norm minimization
