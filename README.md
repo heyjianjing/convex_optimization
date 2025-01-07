@@ -166,3 +166,7 @@ Main reference
 * Optimal step with known optimal function value
 * Point at intersection of convex sets and alternating projections
 * **Example**: PSD matrix completion
+
+`cvx_14`
+* Projected subgradient method for constrained optimization
+* Convergence analysis
