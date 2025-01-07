@@ -172,3 +172,4 @@ Main reference
 * Convergence analysis
 * Simplification with linear equality constraints
 * **Example**: linear equality constrained 1-norm minimization
+* Projection onto closed convex set
