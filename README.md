@@ -83,7 +83,7 @@ Main reference
 * General descent method
 * Requirement for search direction
 * Line search for step size
-* Gradient descent and 1st order approximation
+* Gradient descent as minimizing quadratic approximation of function
 * Gradient descent with ill-conditioned problem
 * Convergence analysis of gradient descent for smooth and strongly convex functions
 * Steepest descent method
