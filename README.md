@@ -176,3 +176,4 @@ Main reference
 
 `cvx_15`
 * Decomposable functions
+* Proximal operator and proximal gradient step
