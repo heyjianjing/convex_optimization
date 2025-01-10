@@ -85,7 +85,6 @@ Main reference
 * Line search for step size
 * Gradient descent as minimizing quadratic approximation of function
 * Gradient descent with ill-conditioned problem
-* Convergence analysis of gradient descent for smooth and strongly convex functions
 * Steepest descent method
 * Search direction under arbitrary norm
 * Quadratic norm search direction and geometric interpretation
@@ -94,9 +93,9 @@ Main reference
 * Newton decrement
 * Newton's method and two-phase convergence theorem
 * Self-confordant functions
-* Properties and convergence analysis for self-concordant functions
 * **Example**: Quadratic, exponential, and log-barrier objective
 * Gradient descent for vector-valued functions: Levenberg–Marquardt and Gauss-Newton method
+* Convergence analysis of gradient descent and Newton's method
 
 `cvx_08`
 * Equality constrained optimization and optimality condition
