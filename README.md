@@ -145,7 +145,7 @@ Main reference
 * Subgradient for nondifferentiable functions
 * Basic subgradient calculus rules
 * Examples of subgradient
-* Optimality conditions for subdifferentiable functions
+* Subgradient optimality condition
 * Generalization of KKT conditions
 * Directional derivative and lower bound for convex functions
 * Positive homogeneity and convexity
