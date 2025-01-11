@@ -168,7 +168,7 @@ Main reference
 
 `cvx_14`
 * Projected subgradient method for constrained optimization
-* Convergence analysis
+* Convergence analysis of projected subgradient method
 * Simplification with linear equality constraints
 * **Example**: linear equality constrained 1-norm minimization
 
