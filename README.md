@@ -94,7 +94,7 @@ Main reference
 * Newton's method
 * **Example**: Quadratic, exponential, and log-barrier objective
 * Gradient descent for vector-valued functions: Levenberg–Marquardt and Gauss-Newton method
-* Convergence analysis of gradient descent and Newton's method
+* Convergence of gradient descent and Newton's method
 * Self-confordant functions
 
 `cvx_08`
@@ -157,7 +157,7 @@ Main reference
 `cvx_13`
 * Subgradient method
 * Choices of step size
-* Convergence analysis of subgradient method
+* Convergence of subgradient method
 * A stopping criterion
 * **Example**: piecewise linear minimization
 * **Example**: simple 1-norm minimization
@@ -168,7 +168,7 @@ Main reference
 
 `cvx_14`
 * Projected subgradient method for constrained optimization
-* Convergence analysis of projected subgradient method
+* Convergence of projected subgradient method
 * Simplification with linear equality constraints
 * **Example**: linear equality constrained 1-norm minimization
 
