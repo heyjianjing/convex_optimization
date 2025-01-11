@@ -91,11 +91,11 @@ Main reference
 * Newton step from 2nd order approximation
 * Affine invariance
 * Newton decrement
-* Newton's method and two-phase convergence theorem
-* Self-confordant functions
+* Newton's method
 * **Example**: Quadratic, exponential, and log-barrier objective
 * Gradient descent for vector-valued functions: Levenberg–Marquardt and Gauss-Newton method
 * Convergence analysis of gradient descent and Newton's method
+* Self-confordant functions
 
 `cvx_08`
 * Equality constrained optimization and optimality condition
