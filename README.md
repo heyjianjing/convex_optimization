@@ -39,7 +39,7 @@ Main reference
 * Domain of optimization problem and implicit constraints
 * Convex optimization in standard form
 * Local optimal is global optimal for convex problem
-* Optimality criterion for differentiable objective function
+* 1st order optimality criterion for differentiable functions
 * Equivalent convex formulations
 * Linear program (LP)
 * Solutions of simple LPs
