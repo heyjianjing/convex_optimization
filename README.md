@@ -178,3 +178,4 @@ Main reference
 * Backtracking line search
 * Iterative shrinkage thresholding algorithm (ISTA)
 * **Example**: LASSO
+* Convergence of proximal gradient method
