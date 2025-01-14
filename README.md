@@ -176,6 +176,7 @@ Main reference
 * Decomposable functions
 * Proximal operator and proximal gradient step
 * Backtracking line search
-* Iterative shrinkage thresholding algorithm (ISTA)
+* Proximal gradient with momentum
+* Iterative shrinkage thresholding algorithm (ISTA) and fast ISTA (FISTA)
 * **Example**: LASSO
 * Convergence of proximal gradient method
