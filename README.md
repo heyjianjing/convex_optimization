@@ -178,5 +178,5 @@ Main reference
 * Backtracking line search
 * Proximal gradient with momentum
 * Iterative shrinkage thresholding algorithm (ISTA) and fast ISTA (FISTA)
-* **Example**: LASSO
+* **Example**: LASSO with subgradient, ISTA, and FISTA
 * Convergence of proximal gradient method
