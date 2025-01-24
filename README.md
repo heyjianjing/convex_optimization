@@ -48,6 +48,7 @@ Main reference
 * Semidefinite program (SDP)
 
 `cvx_04`
+* Intuition of duality from LP
 * Lagrangian
 * Lagrange dual function
 * Domain of dual function
