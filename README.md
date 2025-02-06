@@ -181,3 +181,11 @@ Main reference
 * Iterative shrinkage thresholding algorithm (ISTA) and fast ISTA (FISTA)
 * **Example**: LASSO with subgradient, ISTA, and FISTA
 * Convergence of proximal gradient method
+
+`cvx_16`
+* Fenchel's inequality
+* Properties of conjugate
+* Conjugate of conjugate
+* Conjugate and subdifferential
+* Strong convexity and gradient of conjugate
+* Moreau decomposition and prox operator
