@@ -191,3 +191,6 @@ Main reference
 * Moreau decomposition
 * Dual (sub)gradient method
 * Convergence of dual gradient ascent
+
+`cvx_17`
+* Augmented Lagrangian method
