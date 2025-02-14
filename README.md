@@ -188,4 +188,6 @@ Main reference
 * Conjugate of conjugate
 * Conjugate and subdifferential
 * Strong convexity and gradient of conjugate
-* Moreau decomposition and prox operator
+* Moreau decomposition
+* Dual (sub)gradient method
+* Convergence of dual gradient ascent
