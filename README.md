@@ -195,4 +195,6 @@ Main reference
 `cvx_17`
 * Augmented Lagrangian method
 * Alternating direction method of multipliers (ADMM)
-* Scaled form ADMM and connection to proximal operators
+* Scaled form ADMM
+* Connection to proximal operators
+* **Example**: LASSO with subgradient, ISTA, FISTA, and ADMM
