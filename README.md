@@ -197,4 +197,8 @@ Main reference
 * Alternating direction method of multipliers (ADMM)
 * Scaled form ADMM
 * Connection to proximal operators
-* **Example**: LASSO with subgradient, ISTA, FISTA, and ADMM
+* **Example**: LASSO with ADMM
+
+`cvx_18`
+* Frank-Wolfe method as alternative to projeccted gradient descent
+* Norms constraints
