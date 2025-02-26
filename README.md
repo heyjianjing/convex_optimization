@@ -202,3 +202,4 @@ Main reference
 `cvx_18`
 * Frank-Wolfe method as alternative to projeccted gradient descent
 * Norms constraints
+* Convergence of Frank-Wolfe method
