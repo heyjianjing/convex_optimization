@@ -201,5 +201,6 @@ Main reference
 
 `cvx_18`
 * Frank-Wolfe method as alternative to projeccted gradient descent
-* Norms constraints
-* Convergence of Frank-Wolfe method
+* Norm constraints
+* Convergence of Frank-Wolfe
+* Example: LASSO with Frank-Wolfe
