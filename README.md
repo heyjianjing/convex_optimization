@@ -203,4 +203,4 @@ Main reference
 * Frank-Wolfe method as alternative to projeccted gradient descent
 * Norm constraints
 * Convergence of Frank-Wolfe
-* Example: LASSO with Frank-Wolfe
+* **Example**: LASSO with Frank-Wolfe
