@@ -204,3 +204,6 @@ Main reference
 * Norm constraints
 * Convergence of Frank-Wolfe
 * **Example**: LASSO with Frank-Wolfe
+
+`cvx_19`
+* Coordinate-wise optimality for differentiable functions
