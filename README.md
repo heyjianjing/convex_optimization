@@ -206,4 +206,5 @@ Main reference
 * **Example**: LASSO with Frank-Wolfe
 
 `cvx_19`
-* Coordinate-wise optimality for differentiable functions
+* Coordinate-wise optimality
+* Coordinate descent
