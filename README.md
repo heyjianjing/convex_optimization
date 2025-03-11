@@ -208,4 +208,4 @@ Main reference
 `cvx_19`
 * Coordinate-wise optimality
 * Coordinate descent
-* **Example**: LASSO with Coordinate descent
+* **Example**: LASSO with coordinate descent
